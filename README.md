@@ -1,8 +1,9 @@
 # NPatternRecognizer
-NPatternRecognizer is a fast machine learning algorithm library written in C#. It contains support vector machine, neural networks, bayes, boost, k-nearest neighbor, decision tree, ..., etc.
+NPatternRecognizer是一个用C#编写的快速的机器学习算法库。它包含了支持向量机、神经网络、贝叶斯、boost、k近邻、决策树，...等常用算法。
 
-'learn' chess board pattern with support vector machine, chess board pattern is a 640 random points formed synthetic dataset.
+下面是用此仓库的支持向量机算法学习640个点随机采样的国际象棋盘训练得到的分类边界效果图，方框表示支持向量。
 
 ![image](https://github.com/foamliu/NPatternRecognizer/raw/master/images/chessboard.png)
 
-This project was created on codeplex.com in 2009, and migrated here in 2018/11.
+
+此项目2009年在codeplex上创立，2018年11月迁移至此。
