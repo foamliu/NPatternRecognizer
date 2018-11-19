@@ -3,4 +3,6 @@ NPatternRecognizer is a fast machine learning algorithm library written in C#. I
 
 'learn' chess board pattern with support vector machine, chess board pattern is a 640 random points formed synthetic dataset.
 
-![image](https://github.com/foamliu/NPatternRecognizer/raw/master/images/chessboard.jpg)
+![image](https://github.com/foamliu/NPatternRecognizer/raw/master/images/chessboard.png)
+
+This project was created on codeplex.com in 2009, and migrated here in 2018/11.
